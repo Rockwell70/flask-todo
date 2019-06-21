@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebbdc3f5-725b-4b78-bcee-aa3f31dd53fe" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="235" />
+    <option name="y" value="67" />
+    <option name="width" value="1321" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flask-todo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flask-todo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UW" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebbdc3f5-725b-4b78-bcee-aa3f31dd53fe" name="Default Changelist" comment="" />
+      <created>1561142633766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561142633766</updated>
+      <workItem from="1561142635721" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1216" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="831" y="322" width="196" height="555" id="Project" order="0" sideWeight="0.70913464" visible="true" weight="0.2596472" />
+      <window_info id="Structure" order="1" sideWeight="0.2908654" side_tool="true" weight="0.2596472" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32830188" />
+      <window_info anchor="bottom" x="199" y="322" width="1062" height="710" id="Run" order="2" sideWeight="0.49448124" weight="0.4198113" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4481132" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32830188" />
+      <window_info anchor="bottom" x="430" y="349" width="1175" height="635" id="Terminal" order="7" type="FLOATING" weight="0.39433962" />
+      <window_info anchor="bottom" x="608" y="720" width="571" height="441" id="Python Console" order="8" sideWeight="0.50165564" type="FLOATING" weight="0.30471697" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49779248" weight="0.21509434" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50551873" side_tool="true" weight="0.50377357" />
+      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32986766" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Pylint" order="13" weight="0.3745283" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.3289225" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3292683" />
+      <window_info anchor="right" id="Database" order="5" weight="0.023153253" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
